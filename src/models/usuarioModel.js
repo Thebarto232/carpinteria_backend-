@@ -1,4 +1,3 @@
-/** metodos para obtener usuarios consultas  */
 import connection from "../utils/db.js";
 
 export const loginUsuario = async (correo, contraseña) => {
